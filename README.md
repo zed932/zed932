@@ -7,7 +7,7 @@
 <h2 align="center"> 👨‍💻 About Me</h2>
 
 <div align="justify">
-    I'm a second-year Computer Science student at Alekseev Nizhny Novgorod State Technical University, diving deep into iOS development. I love building clean, user-friendly apps for Apple's ecosystem.
+    I'm a second-year Computer Science student at (NSTU) Nizhny Novgorod State Technical University, diving deep into iOS development. I love building clean, user-friendly apps for Apple's ecosystem.
 </div>
 
 <br>
