@@ -43,27 +43,3 @@
 </div>
 
 ---
-
-<h2 align="center"> 📚 Education</h2>
-<div align="center">
-    <table align="center">
-        <tr>
-            <td align="right"><strong>University:</strong></td>
-            <td align="left">Alekseev NSTU, Nizhny Novgorod</td>
-        </tr>
-        <tr>
-            <td align="right"><strong>Program:</strong></td>
-            <td align="left">Information Systems & Technologies (09.03.02)</td>
-        </tr>
-        <tr>
-            <td align="right"><strong>Status:</strong></td>
-            <td align="left">2nd year student (2024 - present)</td>
-        </tr>
-        <tr>
-            <td align="right"><strong>Course:</strong></td>
-            <td align="left">T-Bank "Beginner iOS Developer" (2025)</td>
-        </tr>
-    </table>
-</div>
-
----
